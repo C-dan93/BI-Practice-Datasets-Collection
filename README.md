@@ -127,7 +127,7 @@ Missing a specific industry or skill area? Open an issue with:
 This collection grows based on real learning needs. Follow my BI learning journey:
 - **LinkedIn:** [www.linkedin.com/in/chinemerem-okpara-9j1993] - Weekly updates on new datasets
 - **Dev.to:** [https://dev.to/chinemerem_okpara_9f0dbbc] - Detailed tutorials using these datasets
-- **GitHub:** [github.com/C-dan93] - Complete data analytics portfolio
+- **GitHub:** [https://github.com/C-dan93] - Complete data analytics portfolio
 
 ---
 
